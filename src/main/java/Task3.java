@@ -1,8 +1,5 @@
 public class Task3 {
-    public static void main(String[] args) {
-        printColor();    }
-
-    private static void printColor() {
+      public static void printColor() {
         int c = 40;
         System.out.println("Yellow");
 

@@ -1,8 +1,5 @@
 public class Task2 {
-      public static void main(String[] args) {
-            checkSumSign(); }
-
-        private static void checkSumSign() {
+           public static void checkSumSign() {
             int a = 7;
             int b = 8;
             if ((a + b) >= 0) {
@@ -16,4 +13,4 @@ public class Task2 {
         }
 
     }
-}
+

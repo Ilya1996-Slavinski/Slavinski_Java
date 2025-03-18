@@ -1,8 +1,5 @@
-public class task4 {
-   public static void main(String[] args) {
-        compareNumbers();}
-
-    public static void compareNumbers() {
+public class Task4 {
+      public static void compareNumbers() {
         int m = 6;
         int n = 6;
         if (m > n) {

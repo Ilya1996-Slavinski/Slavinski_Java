@@ -1,11 +1,8 @@
 public class HomeWorkApp {
-    static void printThreeWords()
-    {
-        System.out.println("Orange");
-        System.out.println("Banana");
-        System.out.println("Apple");
-    }
-    public static void main(String[] args)
-    {
-        printThreeWords();
-    }}
+   public static void main (String[] args){
+       Task1.printThreeWords();
+       Task2.checkSumSign();
+       Task3.printColor();
+       Task4.compareNumbers();
+   }
+}
