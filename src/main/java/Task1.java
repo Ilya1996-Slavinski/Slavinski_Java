@@ -1,5 +1,5 @@
 public class Task1 {
-        static void printThreeWords()
+      static void printThreeWords()
         {
             System.out.println("Orange");
             System.out.println("Banana");
@@ -9,4 +9,3 @@ public class Task1 {
         {
             printThreeWords();
         }}
-}
